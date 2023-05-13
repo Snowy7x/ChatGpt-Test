@@ -1,0 +1,14 @@
+{
+  "name": "chatgpt-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "openai": "^3.2.1",
+    "prompt-sync": "^4.2.0"
+  },
+  "scripts": {
+    "start": "node src/index.js"
+  }
+}
